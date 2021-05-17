@@ -1,0 +1,92 @@
+{
+  "percent_show_ins": 30,
+  "ads_type": "",
+  "fan": {
+    "ins1": "",
+    "ins2": "",
+    "ins3": "",
+    "ins4": "",
+    "ins5": "",
+    "banner1": "",
+    "banner2": "",
+    "banner3": "",
+    "banner4": "",
+    "banner5": "",
+    "banner6": "",
+    "banner7": "",
+    "banner8": "",
+    "banner9": "",
+    "banner10": ""
+  },
+  "ane":{
+    "ins1":"53cbbc27-0111-4978-a3b7-14d500f40b1d",
+    "banner1": "0e5e3d29-6d3d-46aa-b492-70ad52927a8b"
+  },
+  "unt":{
+    "id": "3943909",
+    "ins1": "video",
+    "banner1": "banner"
+  },
+  "aln": "",
+  "is_force_aln": true,
+  "tou": "",
+  "characters": [
+    {
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "ABBBBBBBB",
+      "info": "PUBG Mobile recently received a new character system with the advent of Victor. This character is free for everyone and gives players a special privilege. Victor is a \"submachine gun enthusiast\" due to his reduced reload time on all SMG weapons he uses. At level one, his reload time has been increased by four percent. But this number will increase as new character levels are unlocked. At level nine, his reload time is reduced by 10%, this reduced reload time only applies to Evo Ground modes (except Team Deathmatch) in PUBG Mobile. This character can be played in classic matches, but his own perks will have no effect. Victor has unique outfits just for him. He also has exclusive voice messages and emojis. The character has 10 unlockable levels. Each level offers a new feature for the character. Level two unlocks new voice messages while level three will increase reload time even more. Reaching level 10 will bring players the MVP emoji, Victory again. Playing with the character will grant the XP used to level him up. You can also purchase XP to quickly level up your character, and there are specific voice messages, skins, and emojis that can't be unlocked during your level up. The pieces, which can be purchased with UC, are used to unlock these features. Tencent will certainly release more characters for the battle royale game. However, these characters may not be offered for free like Victor and will have different perks.",
+      "level": [
+        "Victor is given free to PUBG Mobile players. Viktor’s skill is to increase SMG reload speed by 10%. This skill must be upgraded to Level 9."
+      ],
+      "levelName": [
+        "Ability"
+      ]
+    }
+  ],
+  "vehicles": [
+    {
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Buggy",
+      "desc": "Type: Land \nTips: Attempting to exit a moving vehicle can result in player damage and even instant death as long as the vehicle is moving.",
+      "property1": 2,
+      "property2": 100,
+      "property3": 1540,
+      "property4": 0
+    }
+  ],
+  "weapons": [
+    {
+      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/weapons/1.png",
+      "name": "AKM",
+      "desc": "The AKM fires 7.62mm rounds and is just behind the Gorza in terms of damage. However, the reason the AKM is ahead of the Gorza is because of availability. The Gorza is only found in airdrops, which makes it difficult to get. The AKM, on the other hand, is available pretty much everywhere.",
+      "type": "Assault Rifles",
+      "attribute": [
+        "",
+        ""
+      ],
+      "property1": 49,
+      "property2": 0.1,
+      "property3": 490,
+      "property4": 0.3,
+      "property5": 4,
+      "property6": 2,
+      "property7": 40,
+      "property8": 69,
+      "dan": 100
+    }
+  ],
+  "maps": [
+    {
+      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/maps/1.png",
+      "name": "Erangel",
+      "desc": "PUBG's original map, Erangel is an 8x8 island whose terrain ranges from open grasslands to tall mountains, with cities and towns mixed in-between. Two bridges connect the larger portion of the island to Erangel's Military Base, making for a dangerous route to and from the small island."
+    }
+  ],
+  "guides": [
+    {
+      "title": "Choose where to land very carefully",
+      "content": "A game of PUBG can last as long as half an hour or, if things go horribly wrong, it can all be over in a few seconds. One surefire way of exiting early is by misjudging your initial landing spot, which is why it’s first on our list of PUBG Mobile tips and tricks. \n As a general rule of thumb, you want to aim for the best loot spots in the game map you’re playing on, while also avoiding as many other players as possible. There are some particular areas that regularly spawn the best weapons and armor such as the military base, power plant, or the various major towns in the original map Erangel, but bare in mind that other seasoned players will be heading there too.Once you’ve jumped out of the cargo plane, keep an eye out for swarms of other players heading to a single location and avoid those areas like the plague. Likewise, don’t just aimlessly drift once you’re in freefall—pinpoint a safe enough area, preferably with buildings so you can grab some loot, and push forward to speed your way there. Buildings will show up as white blocks on the mini map, so make sure you’re heading in the right direction. If you can’t see one you can always open your parachute early and coast over to a decent landing zone. Just be aware that every second you spend in the sky is a second your opponents will be using to scoop up loot.",
+      "image": "https://pubgmobile2020.s3.ap-south-1.amazonaws.com/pubs/guides/1.png"
+    }
+  ]
+}
