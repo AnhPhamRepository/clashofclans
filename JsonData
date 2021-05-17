@@ -33,10 +33,130 @@
   "characters": [
     {
       "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
-      "name": "ABBBBBBBB",
-      "info": "PUBG Mobile recently received a new character system with the advent of Victor. This character is free for everyone and gives players a special privilege. Victor is a \"submachine gun enthusiast\" due to his reduced reload time on all SMG weapons he uses. At level one, his reload time has been increased by four percent. But this number will increase as new character levels are unlocked. At level nine, his reload time is reduced by 10%, this reduced reload time only applies to Evo Ground modes (except Team Deathmatch) in PUBG Mobile. This character can be played in classic matches, but his own perks will have no effect. Victor has unique outfits just for him. He also has exclusive voice messages and emojis. The character has 10 unlockable levels. Each level offers a new feature for the character. Level two unlocks new voice messages while level three will increase reload time even more. Reaching level 10 will bring players the MVP emoji, Victory again. Playing with the character will grant the XP used to level him up. You can also purchase XP to quickly level up your character, and there are specific voice messages, skins, and emojis that can't be unlocked during your level up. The pieces, which can be purchased with UC, are used to unlock these features. Tencent will certainly release more characters for the battle royale game. However, these characters may not be offered for free like Victor and will have different perks.",
+      "name": "Barbarians",
+      "info": "The Barbarian is the first unit you unlock in the barracks. The Barbarian’s appearance is a man with an angry, battle-ready expression, yellow hair and a long yellow mustache. He wears a brown kilt with a leather belt and an iron shield-shaped buckle. He also has a spiked wrist-band on both arms, as well as a short sword in his right hand and sandals on his feet. The Barbarian gains a head band upon reaching level 3 and a viking helmet at level 5 and level 6 barbarian received sharper sword and mighty horn helmets.",
       "level": [
-        "Victor is given free to PUBG Mobile players. Viktor’s skill is to increase SMG reload speed by 10%. This skill must be upgraded to Level 9."
+        ""
+      ],
+      "levelName": [
+        "Ability"
+      ]
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Archers",
+      "info": "The archer is a ranged unit. It is depicted as a female with pink hair and sharp eyes, a light green dress, a belt with a small bag attached to it, a golden ring on her shoulder, and pink feathers for her arrow flights. Archers have no preferred targets, attacking whatever comes within their range.",
+      "level": [
+        ""
+      ],
+      "levelName": [
+        "Ability"
+      ]
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Goblins",
+      "info": "The Goblin is the fastest character in the game. Their first target is resource buildings making them the ideal troop to deploy if your primary concern from a raid is collecting resources. They deal double damage to resource buildings (gold mines, elixir collectors and storages for each). This means that they deal more than 2x as much damage as Barbarians and 3x as much as Archers to these types of buildings! The trade off is their relatively low health which is higher than an Archer but lower than a Barbarian. Also, because the nature of the character is to attack resource buildings first, ignoring all defenses, they can be vulnerable to attack and should not be deployed without another type of troop for support.",
+      "level": [
+        ""
+      ],
+      "levelName": [
+        "Ability"
+      ]
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Giants",
+      "info": "Giants are large troops capable of taking huge damage, but deal very little in return. They primarily target defenses, so in a large group they can be very strong at crippling a village. Due to their high health, players usually deploy them first in order to protect the other weaker but more offensive troops from defenses.",
+      "level": [
+        ""
+      ],
+      "levelName": [
+        "Ability"
+      ]
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Wall Breakers",
+      "info": "Wall Breaker’s appearance is that of a small skeleton that wears a brown aviator hat and has a small scar across its right eye. It carries a large bomb. Wall Breaker attacks by running directly to its target, the nearest wall, and blowing itself up kamikaze style. It deals splash damage around the enemy and deals 40x damage to walls. The wall breaker will keep hitting any wall until all are gone, even if you put it far away from any wall. Each time the wall breaker is upgraded, the bomb it’s holding becomes larger. At level 3 the bomb becomes larger. At level 5 the Wall Breaker’s bomb turns golden.",
+      "level": [
+        ""
+      ],
+      "levelName": [
+        "Ability"
+      ]
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Balloons",
+      "info": "Balloons are slow moving aerial units that do devastating amounts of splash damage to ground targets. Balloons, like giants, target defensive structures first.",
+      "level": [
+        ""
+      ],
+      "levelName": [
+        "Ability"
+      ]
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Wizards",
+      "info": "The wizard is a magical unit that wears a blue cloak depending on it’s level and a leather belt with golden buckle and brown boots. The wizard is very similar to the archer in that it uses a ranged attack and can shoot over walls. It shoots fireballs that do high damage, but it requires support as it has relatively low hitpoints and can easily be killed by defenses.",
+      "level": [
+        ""
+      ],
+      "levelName": [
+        "Ability"
+      ]
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Healers",
+      "info": "The Healer is a flying unit. She has no attack abilities, but can rapidly heal any ground units, except when in defense (in which case she heals damaged buildings). When the healer is deployed, a halo appears around her. If all units have full health, she won’t do anything. Should a unit be hurt by a defense, she will fly over and start healing. Note that Healers will not heal flying units (other Healers / Dragons / Balloons) or itself (unlike a healing spell which heals everything, healers included).",
+      "level": [
+        ""
+      ],
+      "levelName": [
+        "Ability"
+      ]
+    },{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Dragons",
+      "info": "The dragon is a fearsome flying unit and is capable of terrorizing both ground and air units. Unlike the balloon, which also flies, the dragon has a ranged attack, similar to archers.",
+      "level": [
+        ""
+      ],
+      "levelName": [
+        "Ability"
+      ]
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "P.E.K.K.A.",
+      "info": "The P.E.K.K.A is the last troop to be unlocked in the barracks. It has the strongest armor and damage of any unit in the game. However, it is the most expensive of them all. She has purple crystal spikes growing on her side, and carries a sword. At level 3 a P.E.K.K.A’s armor color changes from dark blue to black, giving her a tougher look.",
+      "level": [
+        ""
+      ],
+      "levelName": [
+        "Ability"
+      ]
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Barbarian King",
+      "info": "The Barbarian King is bigger than a Giant and toughest of all Barbarians! Create him out of Dark Elixir and let him loose on an enemy village!! The Barbarian King is an immortal unit, so he only has to be trained once. However, if he falls in battle he must regenerate his health by putting him to sleep before he can be used again. Also, when you attack a barbarian king while it’s still recharging, their alter will be empty. The Barbarian King can be unlocked from the Barbarian King Altar, which costs 10,000 Dark Elixir.",
+      "level": [
+        ""
+      ],
+      "levelName": [
+        "Ability"
+      ]
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Archer Queen",
+      "info": "The Archer Queen is an immortal unit so she only has to be trained once. However, when her health is lowered in battle she must regenerate before she can be used again. The amount of time she sleeps is directly proportional to the health she has left at the end of the battle. So if she is not damaged then she is ready to fight immediately however, if she falls in battle then she must sleep for the full regen time shown below.",
+      "level": [
+        ""
       ],
       "levelName": [
         "Ability"
@@ -46,8 +166,134 @@
   "vehicles": [
     {
       "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
-      "name": "Buggy",
-      "desc": "Type: Land \nTips: Attempting to exit a moving vehicle can result in player damage and even instant death as long as the vehicle is moving.",
+      "name": "Cannon",
+      "desc": "- Summary: \n   Cannons are a defensive building in the Builder Base. They are unlocked at Builder Hall level 2 (they are fixed from their ruin), and are the first defensive building in the Builder Base.\n   Cannons are both cheap and quick to upgrade at lower levels.\n   Cannons can shoot any ground units, such as Raged Barbarians, but not any air units, such as Beta Minions or Baby Dragons.\n - Defensive Strategy:\n   Cannons have a high rate of fire and a decent range.\n   Cannons are very good point defenses that can deal massive damage to ground tanks, as long as they are protected.\n   You can defend with splash damaging defenses such as Multi Mortars and Crushers by placing them within range of Cannons.\n   Make sure Cannons are placed within range of Firecrackers or Air Bombs, because Cannons are unable to target air units.\n   Upgrade these structures first at lower levels, as they are one of your main ground defenses. They are also the cheapest and one of the most common defensive structure available, which makes them a good initial investment.\n - Offensive Strategy:\n   Cannons are one of the few defensive structures that cannot attack air units. This makes them easy pickings for Beta Minions or Baby Dragons if they are not within range of Firecrackers, Archer Towers, Hidden Teslas, or Air Bombs.\n   The Beta Minions' Long Shot ability allows them to destroy a Cannon while out of range if there are enough and placed correctly.\n   Cannons are only able to damage one unit at a time. This makes it very easy to overwhelm them with large groups of Sneaky Archers or Raged Barbarians.\n   You can destroy a lone Cannon without any distraction buildings with three Sneaky Archers of relative level.",
+      "property1": 2,
+      "property2": 100,
+      "property3": 1540,
+      "property4": 0
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Double Cannon",
+      "desc": "- Summary:\n   Double Cannons fire rapid bursts of cannonballs at ground troops, with four shots per volley.\n   Double Cannons are only available in the Builder Base. They are unlocked at Builder Hall 2.\n   The Master Builder can gear up a Cannon in the Home Village which will allow the Cannon to shoot similarly to the Double Cannon. This requires Cannon at least level 7 in the Home Village and a level 4 Double Cannon in the Builder Base.\n   While Double Cannons do high damage per second, they have a short range and cannot attack air troops.\n - Defensive Strategy:\n   Double Cannons can destroy most ground troops of relative level in one burst, namely Raged Barbarians, Sneaky Archers, Bombers, Cannon Carts and Night Witches. This makes Double Cannons useful to pick off smaller troops when they are in small numbers.\n   Double Cannons are very powerful defenses against ground tanks such as the Boxer Giant or the Battle Machine. A few volleys can do significant damage to them.\n   Their short range prevents them from protecting buildings in front of them from Sneaky Archers if a Wall separates the Double Cannon and the building. It may still be useful to leave a building in front of them to prevent Sneaky Archers from easily destroying them under their cloak.\n   Although it has high damage output, the Double Cannon has a weakness against large swarms, as their burst only targets one unit. You will find it useful to protect Double Cannons with splash-damaging defenses like the Multi Mortar or the Roaster. Its inability to attack air also means that you should also protect Double Cannons with air-targeting defenses like Archer Towers.\n - Offensive Strategy:\n   Air troops such as the Baby Dragon have little to worry from a Double Cannon since the Double Cannon cannot attack them. However, the Double Cannon can still distract them and prevent them from attacking more important buildings.\n   The Double Cannon is weak against large swarms. This makes them easy to overwhelm with Raged Barbarians or Skeletons from the Drop Ship.",
+      "property1": 2,
+      "property2": 100,
+      "property3": 1540,
+      "property4": 0
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Archer Tower",
+      "desc": "- Summary:\n   The Archer Tower is a defensive building that can target both air and ground units. This building is unlocked at Builder Hall level 2. Like the Home Village Archer Tower, it is a single-target defense.\n   The Archer Tower can be set to Long Range or Fast Attack. Both modes has its advantages and disadvantages.\n     The Long Range mode gives the Archer Tower a range of eleven tiles, at the cost of DPS. It has the lowest DPS of any single-target defensive building at relative level in this mode.\n     The Fast Attack mode gives the Archer Tower additional damage output by firing twice as fast as the Long Range mode. This comes at the cost of range - even as its range is reduced by four tiles, it covers only about 40% of the area that a Long Range Archer Tower would cover.\n     When upgrading, an Archer Tower's damage per second increase of Fast Attack is twice as much as the damage per second increase of Long Range so Fast Attack is always twice the DPS of Long Range.\n   The Master Builder can go to your Home Village and gear up an Archer Tower that is level 10 or above in order to allow it to toggle between Long Range and Fast Attack modes. This requires a level 6 Archer Tower in the Builder Base. Like with other gear ups, only one Archer Tower can be geared up.\n   The Archer Tower in fast fire mode in the Builder Base has the same attack speed as a normal Archer Tower in the Home Village.\n - Defensive Strategy:\n   An Archer Tower set to Long Range can protect outer buildings from Sneaky Archers and Beta Minions. However, the Sneaky Archer's Cloak ability allows it to hide for a few seconds, and the Archer Tower can do nothing to stop the Sneaky Archers under their cloak.\n   An Archer Tower that is set to Fast Attack cannot protect buildings in front of it. However, it is more effective at taking down tank-units, and they are more able to handle small swarms of Bats or Skeletons in this manner.\n   You can protect Archer Towers with splash damaging defenses like the Crusher since it is a single-target defense.\n - Offensive Strategy:\n   Try to swarm the Archer Tower with swarm units such as Raged Barbarians as it is single-target.\n   Use tanks like Boxer Giants to distract it so that supported troops can take down outer buildings.\n   Long-range Archer Towers have fairly low damage output, taking three shots to kill equivalently-leveled Sneaky Archers or Beta Minions. If you use Sneaky Archers or Beta Minions to snipe buildings and there are no more unprotected buildings, choosing buildings protected only by a single long-range Archer Tower will give your troops the most time to attack before they are destroyed.",
+      "property1": 2,
+      "property2": 100,
+      "property3": 1540,
+      "property4": 0
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Hidden Tesla",
+      "desc": "- Summary:\n   The Hidden Tesla is a single target defensive building. It is unlocked at Builder Hall level 3.\n   Before it begins attacking, the Hidden Tesla remains completely hidden to the attacker. Once a unit is within 6 tiles of the Tesla, the Tesla emerges from the ground and begins attacking. Like its Home Village counterpart, it automatically emerges from the ground if it's still hidden when at least 51% of the base is destroyed.\n   It attacks enemies with electricity, just like its Home Village counterpart. It has the same fire rate and range, however, its damage compared to equivalently leveled Hidden Teslas in the Home Village is higher at low levels but lower at high levels.\n - Offensive Strategy:\n   Enemies need a 2x2 clear space for a Hidden Tesla, evaluate the worst place for a Tesla placement and deploy accordingly.\n   Sneaky Archers can show you the location of a Hidden Tesla, even when invisible. Placing one Sneaky Archer of the relative level or will be able to take down the Hidden Tesla.\n - Defensive Strategy:\n   The Hidden Tesla can be used to lure your opponent into an air attack, then take out the air units. This is very effective at Builder Hall level three as they only have Beta Minions; when your opponent destroys your Firecrackers and Archer Tower, he/she will send in his/her Beta Minions only to get destroyed by your Hidden Tesla.\n   You can place a Hidden Tesla at the corner of a base (far away from everything else on the base) as a tactic to stall enemy attacks. If the enemy deploys their full army before achieving 51% (or otherwise revealing the Tesla), they will not have anything to immediately deal with the corner Tesla, which can stall out their attack should they destroy all other buildings on the base. Provided that you are able to 3-star their base, this can potentially allow you to achieve victory on the time tiebreaker.",
+      "property1": 2,
+      "property2": 100,
+      "property3": 1540,
+      "property4": 0
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Firecrackers",
+      "desc": "- Summary:\n   Firecrackers are the Builder Base version of Air Defense. Like the Air Defense, they attack flying units; however, they are slightly less powerful while also being slightly smaller covering a 2x2 space.\n   Firecrackers can only target and shoot one air troop at a time. However, it attacks 3 times every time it fires.\n   They cannot harm ground-based units, or interfere with them in any way other than potentially distracting them from attacking a more valuable target (e.g. the Builder Hall).\n   The Firecrackers is unlocked at Builder Hall Level 3.\n - Strategy:\n   Firecrackers have low hitpoints, so protect it well as it can get taken out easily.\n   Its moderate damage but high range makes it good to pair with Air Bombs. The Air Bombs do high, area damage in a small range while the Firecrackers snipe away at long range.\n   At Builder Hall level 3, Firecrackers are an essential defense against Beta Minions as the Archer Tower and Hidden Tesla can both be distracted by ground units.",
+      "property1": 2,
+      "property2": 100,
+      "property3": 1540,
+      "property4": 0
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Crusher",
+      "desc": "- Summary:\n   The Crusher is a single-target splash damaging defense unlocked at Builder Hall level 3.\n   Every few seconds, the Crusher slams down, doing heavy damage to all ground units in its radius.\n   The range of the Crusher is short, and thus it excels against short-range troops such as Raged Barbarians and Boxer Giants but will be outranged by long-range troops such as the Sneaky Archer and Cannon Cart.\n   The Crusher cannot damage air troops.\n - Defensive Strategy:\n   Keeping the Crusher centered in the Builder Base helps protect it from ranged troops.\n   Use Push Traps to push ranged units into the Crusher.\n     You can make an opening in your village using Walls to lure ground troops into the Crusher. Troops prefer to target buildings over Walls so they will run through the gap.\n   You can put a Guard Post near a Crusher so the Guard Post troops will lure your opponent's troops into the Crusher.\n   Protect short-ranged defenses such as the Double Cannon and the Mega Tesla behind the Crusher as ground troops will have to go through the Crusher to destroy it.\n   Try to avoid putting Crushers by Walls as they cannot crush troops over them, allowing the ranged units more time to destroy the Crusher.\n   Try to put Crushers near your Firecrackers and Air Bombs to protect them from the Skeletons of the Drop Ship. Since they tend to have a tough time taking the Crusher out, it will stall the Drop Ships, giving your Firecrackers and Air Bombs ample time to take it out.\n - Offensive Strategy:\n   The Boxer Giant's Power Punch ability can destroy a Crusher if there are enough Giants at once.\n   Use air troops to take down the Crusher if using a swarm attack. This is only for unprotected Crushers - watch out for Firecrackers, Air Bombs, and the Archer from the Guard Post!\n   To avoid a luring technique, as explained above, use Bombers to destroy Walls and create another opening into a base away from the Crusher.\n   The Battle Machine can take out the Crusher before it does massive damage to units, especially with the ability, Electric Hammer. However, with the help of other defenses, the Battle Machine will likely be at low hitpoints or taken out by the Crusher.\n   You can take advantage of the Crusher's long cooldown time between slams by baiting it with a few Raged Barbarians then swarming it with more Raged Barbarians to take it down before it has a chance to crush the rest of the Raged Barbarians again. However, this technique requires precise timing and can ruin your attack if not executed correctly.",
+      "property1": 2,
+      "property2": 100,
+      "property3": 1540,
+      "property4": 0
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Guard Post",
+      "desc": "- Summary:   The Guard Post houses defensive troops, similar to the Clan Castle in the Home Village.\n   Unlike the Clan Castle, you cannot choose which troops nor the quantity who are stationed inside the Guard Post. However, the troops stationed there are permanent; if they are killed in battle, they will reappear in the next battle with full health, and you do not need to train additional troops to replace the lost troops.\n   The post can only host Raged Barbarian(s) and Sneaky Archer(s).\n     However, they do not have any Special Abilities no matter what level the Guard Post or troops are.\n   The Guard Post is unlocked at Builder Hall level 4.\n   The Guard Post occasionally houses more troops when upgraded, starting at level 3. Extra Raged Barbarians or Sneaky Archers may be added with a new level.\n - Offensive Strategy:\n   Troops that don't have a preferred target will turn to target Guard Post troops even while attacking another building.\n   You can use air units such as Baby Dragons to take out the Raged Barbarian(s) from the Guard Post as they can't target air.\n   The Bomber's splash damage allows them to destroy any Guard Post troops with a few shots along with other buildings and Walls.\n     Their ability, which allows them to do extra damage on the first throw, allows them to one-shot the troops.\n   When using Sneaky Archers, make sure you destroy the Guard Post troops or attack from far off as the Sneaky Archers will not distract the Guard Post troops and follow them instead while they are still in their cloaks.\n     Raged Barbarians are excellent at finishing off Guard Post troops as they are expendable units that are fast and can attract Guard Post troops.\n   Beta Minions can kill off Guard Post troops well given their Long Shot ability, which protects them from both defences and the Guard Post troops for a short while.\n - Defensive Strategy:\n   The Guard Post can be placed near defensive buildings to distract enemies, giving defenses more time for damage. They can also snipe away at building-targeting troops like the Boxer Giant.\n   The Guard Post can protect outer buildings that are out of range of other defensive buildings.\n   You can use the Guard Post to tank the Power Punch of the Boxer Giant(s) as the building itself serves no purpose on defense.\n   Since most troops will attack the Guard Post troops if attacked by them, you can strategically use the Guard Post troops to lure them into the range of powerful defenses like the Crusher.",
+      "property1": 2,
+      "property2": 100,
+      "property3": 1540,
+      "property4": 0
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Air Bombs",
+      "desc": "- Summary:\n   Air Bombs is a defensive building unlocked at Builder Hall level 4. It continuously launches explosive barrels, resembling the Air Bomb, a trap from the Home Village, at air troops.\n   It can only target aerial enemies.\n   The number of barrels in the structure does not represent the ammunition of the Air Bombs, much like how the number of rockets in an Air Defense does not represent its ammunition.\n   The bombs deal heavy damage in a small area.\n - Defensive Strategy:\n   Because of its high area damage but low range and hit speed, it is recommended to place them near Firecrackers as they both cover each other's weaknesses, with one having smaller range but higher damage while the other having moderate damage in a large range.\n     This is especially effective because there are no spells in Builder Base, so your opponent cannot take advantage and damage both buildings as would in the Home Village.\n   Try placing a Crusher near your Air Bombs to protect them from the Skeletons spawned by the Drop Ship, as the Crusher can stall them for a long time, giving your Air Bombs more time to take the Drop Ships out.\n   Protect it well to prevent ground troops from destroying it, especially ones using an all Night Witch attack, as the Air Bombs is a great counter to Bats.\n - Offensive Strategy:\n   Use ground troops to take out the Air Bombs then use your air troops to attack the base. This is only true if the Air Bombs are close to the outer edge of your opponent's base or you will have to spend a lot of troops to take out a few buildings.\n   Try to avoid the Air Bombs when attacking your opponents using air, as it only has an 8 tile range and cannot shoot at the whole map.\n   You can spread out your troops so it can only hit one at a time. This is doubly useful with an all-Baby Dragon attack since they will also benefit from their ability (if you have it unlocked).\n   The Drop Ship can tank multiple hits from the Air Bombs, allowing air units with lower hitpoints to destroy other buildings.\n   Make it a priority to destroy Air Bombs to give way for your other air troops. Sneaky Archers are the best way, as their cloak can hide them from defenses. Alternatively, you can use Raged Barbarians to make quick work of them.",
+      "property1": 2,
+      "property2": 100,
+      "property3": 1540,
+      "property4": 0
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Multi Mortar",
+      "desc": "- Summary:\n   The Multi Mortar is a defense on the Builder Base unlocked at Builder Hall Level 5.\n   It shoots splash-damaging Mortar shells at ground units, shooting four per blast. It cannot target air units.\n   The Multi Mortar shells do low damage by themselves but medium damage altogether. Additionally, the shells themselves have a fairly large splash radius.\n   The Multi Mortar has a large range but cannot hit troops too close to it.\n   The Master Builder can Gear Up a Mortar in your Home Village that is level 8 or higher to make it fire in bursts similar to the Multi Mortar. To do so, the Multi Mortar needs to be level 8 in the Builder Base.\n - Defensive Strategy:\n   Place the Multi Mortar at the center of the base to cover as much area as possible and to slow troops from getting too close to it.\n     You can use the Multi Mortar's inability to hit nearby units to your advantage, as the Multi Mortar will target support units, such as the Sneaky Archers, Cannon Carts, and Night Witches following behind the tanks and take care of them so they don't do too much damage.\n   The Multi Mortar's splash damaging shells makes it good at taking down hordes of low-hitpoint troops but can be easily distracted by high-hitpoint troops. In particular, they work very well against Sneaky Archers and Skeletons dropped by the Drop Ship, but can also deal good damage to Raged Barbarians, Night Witches and Cannon Carts.\n   Because of its inability to hit nearby troops, it can be good to place the Crusher near it as it is another area damage defense that deals high damage. However, the Crusher cannot fully cover the blind spot of the Multi Mortar due to its extremely short range. In addition, neither can attack air troops, so that should also be kept in mind when building a layout.\n   The Multi Mortar can stop Bombers from doing too much damage to your base. At relative level, where the Bomber is twice or less than the level of the Multi Mortar, a volley of 4 shots can destroy a Bomber.\n - Offensive Strategy:\n   Air units are a good option, as the Multi Mortar cannot hit them.\n     Drop Ships cannot be attacked by the Multi Mortar, but its Skeletons can be easily wiped out by it, unless they get too close.\n     Use tanks such as Boxer Giants or the Battle Machine to distract the Multi Mortar while you swarm the base. Take care that they do not all enter the Multi Mortar's blind spot, otherwise, it will retarget.\n   Try to get near it as it cannot hit troops close to it.\n   Try to spread out your troops so the Multi Mortar cannot hit all of them at once.",
+      "property1": 2,
+      "property2": 100,
+      "property3": 1540,
+      "property4": 0
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Roaster",
+      "desc": "- Summary:\n   The Roaster is a defensive building in the Builder Base that is unlocked at Builder Hall level 6.\n   It launches a rapid burst of damaging flames that deal splash damage, with a short delay between each burst.\n   It can burn both air and ground troops.\n - Defensive Strategy:\n   The Roaster is a great counter to the Night Witch and her Bats as it is able to easily defeat the Bats and the Night Witch at the same time.\n    The Roaster can be placed near the Builder Hall to prevent Raged Barbarians or any other low hitpoint units from destroying it.\n     Due to the Roaster's short range, placing it on one side of the Builder Hall cannot prevent Sneaky Archers or Beta Minions from destroying the Builder Hall from the other side.\n   The Roaster can defeat swarms of Raged Barbarians that are coming into your base from a distance.\n   The Roaster can keep the Skeletons from the Drop Ship at bay, giving time for other defenses to take them out.\n   Put the Roaster near an area where you expect a swarm of ground troops to occur.\n - Offensive Strategy:\n   Putting units with high hitpoints (such as the Battle Machine) in front of support units with fewer hitpoints to distract it from shooting at the support units. Note that placing both on top of each other will cause the fire's splash damage to hit both.\n   Scattering troops prevents the Roaster from hitting all of them at once.",
+      "property1": 2,
+      "property2": 100,
+      "property3": 1540,
+      "property4": 0
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Giant Cannon",
+      "desc": "- Summary:\n   The Giant Cannon is a Defensive Building in the Builder Base that unlocks at Builder Hall level 7.\n   The Giant Cannon is a single-target defense that shoots a large cannonball with a piercing effect, able to hit multiple troops and knocks them back. The cannonball slows down the further it travels.\n   It has a low fire rate but deals moderate damage per hit.\n - Defensive Strategy:\n   The Giant Cannon has a lock-on range of 9 tiles but the fired projectile can travel 48 tiles.\n   You can put a Giant Cannon behind other buildings to assist their defense - it can hit all ground units in a row. This is especially true for strategies which utilize Raged Barbarians where a player attempts swarms their army into the center of the base.\n   Putting this near the Builder Hall makes Troops uses longer time to attack it due to the repel distance.\n   The Giant Cannon can deal damage to both a tank and their support troops as long as they are lined up.\n - Offensive Strategy:\n   Try to spread out your troops so they are not in line with the Giant Cannon; otherwise, the Giant Cannon will be able to hit all of them at once.\n   Use the slow fire rate to your advantage by baiting it to shoot a few troops then swarming it with other troops before it can shoot again. Only use this if you don't have tanks to take it out and if the Giant Cannon is not guarded by a Crusher.\n   The Boxer Giant and Battle Machine are good tanks against a Giant Cannon. They both have high hitpoints and will be able to survive many hits from the Giant Cannon.",
+      "property1": 2,
+      "property2": 100,
+      "property3": 1540,
+      "property4": 0
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Mega Tesla",
+      "desc": "- Summary:\n   The Mega Tesla is a defensive building in the Builder Base that unlocks at Builder Hall level 8.\n   It is a defense that can damage both air and ground troops.\n   The Mega Tesla attacks with chain lightning; the electricity it fires damages a first target within the range of the Tesla, and then, if possible, the bolt will arc towards a second target up to 3 tiles away from the first target and hit for full damage.\n - Defensive Strategy:\n   The Mega Tesla deals high damage, but has a low fire rate and can only hit up to two targets per attack. It is therefore most specialised at attacking troops that are relatively low in numbers, such as Baby Dragons, Cannon Carts and Hog Gliders, while troops that have strength in numbers or can swarm the Mega Tesla with its spawns, such as Raged Barbarians or Night Witches, will have less trouble with the Mega Tesla.\n   Because of the aforementioned weakness against swarms, it is good to protect the Mega Tesla using splash-damaging defenses and traps, such as the Roaster, Crusher, and Mega Mines, to prevent enemies from distracting it with lower-hitpoint troops.\n   Among defenses of equal level, the Mega Tesla does the second-most damage of any defense in the Builder Base, behind the Crusher. However, the Mega Tesla has advantages over the Crusher in that it can target air troops (and ranged troops in most scenarios) at the cost of AOE, where Crusher has an advantage.\n   The Mega Tesla's Chain Lightning is able to target hidden Sneaky Archers but only if it somehow attacks an enemy that is too close to the archer.\n - Offensive Strategy:\n   Mega Tesla is extremely weak against swarms, so Raged Barbarians can have an advantage since they would only be able to take out two at a time.\n   Drop Ships can tank several shots from the Mega Tesla and drop Skeletons to distract it and potentially deal damage (though minor).",
+      "property1": 2,
+      "property2": 100,
+      "property3": 1540,
+      "property4": 0
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Lava Launcher",
+      "desc": "- Summary:\n   The Lava Launcher is a defensive building that is unlocked at Builder Hall level 9.\n   It throws powerful balls of lava that do a small amount of damage on impact, but leaves the ground scorched, which has a damage-over-time effect (similar to the Poison Spell) on ground troops. The effect of the lava remains for 20 seconds after impact.\n   It has a very large range, but also a very large blind spot as well.\n - Offensive Strategy:\n   Using air troops is advantageous, as the Lava Launcher cannot attack air units. For this purpose, Baby Dragons or Drop Ships paired with Beta Minions work very well, though in the case of Drop Ships, their Skeletons' effect may be nullified by the Lava Launcher.\n   If your only option of attacking is by ground then the best way to proceed would be to distract the Lava Launcher with expendable units such as a single Raged Barbarian, and ensure it fires away from the line of attack until the main attacking force has safely entered the Lava Launcher's blind spot. If done correctly the lava will not impede the attack's progress.\n   Super P.E.K.K.As are also useful as their very high health means that they can survive for much longer in the lava compared to other troops.\n   The Battle Machine is largely immune to the damage over time effect (like how Heroes are minimally affected by Poison Spells), so having the Battle Machine be targeted will minimize the DPS of the Lava Launcher.\n - Defensive Strategy:\n   Often it is not the damage of the lava shot itself that is devastating, but rather the massive DPS from the damage over time effect of the resulting lava. If allowed to reach maximum DPS the lava can easily make short work of many smaller troops, such as Raged Barbarians, Sneaky Archers, Cannon Carts, and Night Witches. To increase the chances of this happening it is often advantageous to stall attacking troops behind Walls so that they will stay in the lava for as long as possible, racking up damage, but make sure that the Walls can cover the Lava Launcher's blind spot.\n     It is also useful to protect these Walls as Bombers can easily clear them, allowing for other troops to rush into the blind spot.\n   The biggest weakness of the Lava Launcher is its blind spot. Cover it with other defenses to protect it and try to use traps to keep troops in the range of the Launcher.",
+      "property1": 2,
+      "property2": 100,
+      "property3": 1540,
+      "property4": 0
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Walls",
+      "desc": "- Summary:\n   Walls are structures that obscure the path of enemy ground troops, with an identical function to that of Walls in the Home Village.\n   Just like in the Home Village, Walls can be bypassed completely by air troops (Beta Minions, Baby Dragons, etc.), and also do not count towards destruction percentage when destroyed.\n   Walls in the Builder Base come in segments of five. These segments cannot be separated but can be rotated. When upgraded, all the Walls in the same segment will be upgraded at the same time.\n     This is true when counting Walls. When you unlock new Walls, it may say that you unlocked 25 Walls, but there are only 5 more wall segments.\n - Offensive Strategy:\n   Walls can be circumvented by destroying them or positioning ranged troops to shoot over the Walls. Walls can be bypassed completely by air units such as Beta Minions.\n     Melee units will only attack Walls if there are no other buildings near them and if there is a building on the other side of the Wall.\n     Ranged units will only attack Walls if there are no other buildings in their sight ranges other than those across the Wall that is (almost) completely surrounded by Walls and that are outside its attack range.\n   The Bomber has a 15x damage multiplier against walls.\n - Defensive Strategy:\n   Purposely create gaps in Walls to put a trap in as the enemy troops will walk into the gap instead of breaking the Wall.\n     You can also do this by putting a Crusher in the gap.\n   Use Walls to surround defenses to protect them. Try to surround structures that assist in defense so they do not get taken out easily.\n   It is unnecessary to protect resource buildings with Walls since they are used to absorb damage, and it is not possible to lose resources from versus battles. Protecting them, however, can still force the opponent to break through them and stall their progress.\n   Do not place 3x3 buildings too close to the Walls. If a Bomber is protected and manages to target it, the Walls will be shattered easily. This is especially dangerous if the Bomber is at level 11 since its ability can destroy Walls at any level.",
+      "property1": 2,
+      "property2": 100,
+      "property3": 1540,
+      "property4": 0
+    },
+	{
+      "image": "https://raw.githubusercontent.com/AnhPham-Repository/HelloNeighbor/main/Character_Pradot.png",
+      "name": "Traps",
+      "desc": "- Summary:\n   Traps are relatively inexpensive structures that remain hidden until they are activated by an attacking troop moving into their trigger radius. They can greatly improve the effectiveness of a village's defense if properly placed.\n   Traps do not light up the map like other buildings.\n   Traps are always ready for the next battle and do not need to be re-armed, unlike the ones in the Home Village.\n   Although commonly thought of as a trap, the Hidden Tesla is not listed here as it actually a hidden Defensive Building.\n   Traps are not buildings and do not need to be triggered/destroyed for your enemy to reach 100% destruction (nor do they count toward it).\n   Traps do not need the Master Builder to be available in order to be placed, however, the Master Builder needs to be available to upgrade them.\n   Traps are best used to push enemies off the base or just push them, or just to reduce the enemies health.\n   The Mine and Mega Mine can be set to hit ground or air troops.\n - Upgrade Facts:\n   Currently, all permanent traps have upgrade levels.\n   You can upgrade a trap once it is bought from the Shop. Buying the trap does not require the Master Builder; however, upgrading will.\n   Upgrade times are relatively short compared to defensive building upgrades, taking less time than defensive buildings of similar level.\n   Upgrade times are relatively short compared to defensive building upgrades, taking less time than defensive buildings of similar level.\n   Traps have different upgrade types, with some traps increasing their affected housing space like the Push Trap while others dealing more damage, like the Mine.\n   Traps being upgraded are visible to enemies; it is usually a good idea to relocate them while they are being upgraded to ensure that enemies don't know where traps aren't. However, remember to replace them when it is finished upgrading.\n   Each trap must be upgraded individually. Upgrading one trap does not upgrade all traps of that type.\n   Traps have no effect on the no-spawn zone. Attackers can deploy troops on top of traps regardless of whether or not they are being upgraded.\n - Using Traps:\n   Traps in the Builder Base do not require re-arming, unlike those in the Home Village. They will remain armed for the next battle.\n   Once a particular trap is upgraded, it is permanently upgraded. Upgrade levels don't disappear when it is triggered.",
       "property1": 2,
       "property2": 100,
       "property3": 1540,
